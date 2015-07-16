@@ -1,0 +1,14 @@
+.daniel {
+	color: red;
+
+}
+
+@media (min-width: 550px)
+ 
+{
+	.daniel {
+		color: green;
+
+	}
+
+}
